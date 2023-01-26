@@ -140,7 +140,7 @@ public class FormBuku extends javax.swing.JFrame {
 
         tblBuku.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-
+                {null, null, null, null}
             },
             new String [] {
                 "Kode Buku", "Judul", "Pengarang", "Penerbit"
